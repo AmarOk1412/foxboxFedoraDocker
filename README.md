@@ -1,5 +1,7 @@
 # foxboxFedoraDocker
 
+A container for the [foxbox deamon](https://github.com/fxbox/foxbox)
+
 ## Usage
 
 ```bash
